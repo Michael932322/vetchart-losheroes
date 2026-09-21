@@ -20,7 +20,7 @@ import java.time.LocalTime
 /**
  * Carga un conjunto de datos de prueba para demostrar el funcionamiento del
  * sistema durante la defensa. En la Etapa 3 esta clase se sustituirá por la
- * lectura desde Cloud Firestore.
+ * lectura desde Cloud Firestore. 
  */
 object DatosIniciales {
 
