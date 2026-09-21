@@ -114,3 +114,9 @@ Los archivos de bitácora se generan en tiempo de ejecución dentro de `logs/`.
 
 Sustituir `AlmacenDatos` por repositorios contra Cloud Firestore, reemplazar `Persona.autenticar`
 por Firebase Authentication y trasladar `ui/AplicacionConsola.kt` a las pantallas Android de los mockups.
+
+
+
+
+
+## Api rest Spring Boot con Kotlin 
