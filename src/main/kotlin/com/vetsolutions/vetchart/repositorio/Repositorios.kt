@@ -19,7 +19,7 @@ import java.time.LocalDateTime
 /**
  * INTERFAZ 4. Contrato genérico de persistencia (CRUD) para cualquier entidad
  * que implemente [Identificable]. El uso de genéricos evita repetir el mismo
- * código para mascotas, citas, consultas y vacunas.
+ * código para mascotas, citas, consultas y vacunas. 
  */
 interface Repositorio<T : Identificable> {
     fun crear(entidad: T): T
