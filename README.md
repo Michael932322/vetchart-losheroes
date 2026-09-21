@@ -25,7 +25,7 @@ Docente: Ing. Carlos Emanuel Dubón Cornejo
 
 ### Opción B — línea de comandos con Gradle
 ```bash
-./gradlew run --console=plain
+gradle run --console=plain
 ```
 
 ### Opción C — sin Gradle, solo con el compilador de Kotlin
@@ -89,7 +89,7 @@ Los archivos de bitácora se generan en tiempo de ejecución dentro de `logs/`.
 | **Validación de entradas** | `util/Validaciones.kt` (texto, correo, teléfono salvadoreño, fechas, rangos numéricos) y relectura automática en `Consola.pedirX` |
 | **Manejo de errores** | Jerarquía en `excepciones/`, `try/catch` en `Consola.menu` y en `Main.kt` |
 | **Logs en archivos de texto** | `util/Bitacora.kt` → `logs/vetchart.log` y `logs/errores.log` (con traza completa) |
-| Repositorio con una rama por integrante | Ver `docs/GUIA_GITHUB.md` |
+| Repositorio con una rama por integrante | Ver `GUIA_GITHUB.md` |
 
 ## Cumplimiento de los requerimientos funcionales mínimos
 
