@@ -1,0 +1,21 @@
+# Compilación
+build/
+out/
+*.jar
+*.class
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Bitácoras generadas en tiempo de ejecución
+logs/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
