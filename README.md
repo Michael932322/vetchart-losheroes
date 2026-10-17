@@ -91,7 +91,7 @@ Los archivos de bitácora se generan en tiempo de ejecución dentro de `logs/`.
 | **Logs en archivos de texto** | `util/Bitacora.kt` → `logs/vetchart.log` y `logs/errores.log` (con traza completa) |
 | Repositorio con una rama por integrante | Ver `docs/GUIA_GITHUB.md` |
 
-## Cumplimiento de los requerimientos funcionales mínimos
+## Cumplimiento de los requerimientos funcionales mínimos.
 
 | # | Requerimiento | Implementación |
 |---|---|---|
